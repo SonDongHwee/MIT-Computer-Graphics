@@ -1,7 +1,9 @@
-#Assignment0 : OpenGL Mesh Viewer
+# Assignment0 : OpenGL Mesh Viewer
 
 ---
 ### 1. Color Change
-![color_stdo](./zero/color_stdo.png) <br>
+<img src="./zero/color_stdo.png" width="100" height="100"/> <br>
 
-![color1](./zero/color1.png){: width="20%" height="20%"} ![color2](./zero/color2.png){: width="20%" height="20%"} ![color3](./zero/color3.png){: width="20%" height="20%"}
+<img src="./zero/color1.png" width="100" height="100"/> <img src="./zero/color2.png" width="100" height="100"/> <img src="./zero/color3.png" width="100" height="100"/>
+
+
